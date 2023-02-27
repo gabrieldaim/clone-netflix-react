@@ -1,6 +1,6 @@
-const corsAnywhereUrl = 'https://cors-anywhere.herokuapp.com/';
+
 const API_KEY = 'fc315044042eacc828fcccd5efb100b6';
-const API_BASE = `${corsAnywhereUrl}https://api.themoviedb.org/3`
+const API_BASE = `https://api.themoviedb.org/3`
 
 
 const basicFetch = async (endpoint) => {
