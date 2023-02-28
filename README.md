@@ -1,4 +1,4 @@
-<h1 align="center"> Site CostsApp, para planejamento de finanças </h1>
+<h1 align="center"> Projeto Clone do Netflix </h1>
 
 
 <p align="center">
@@ -25,24 +25,24 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Git e Github
 - JavaScript
+- React
 
 **O que usamos nesse projeto:**
 
 - Organização de Github, readme, imagens, hacks para tabela de readme
-- Input, Select e Button customizados
+- Front-end construido com React
 - Uso de ícones e fontes customizdas
-- HTML: `form`,`header`,`main`,`section`,`form`,`select`,`img`,
+- HTML: `header`,`main`,`section`,`select`,`img`,
 - CSS: `all`, `overflow`, `::before`, `::after`, `rem`, `position`, `fit-content`, `flex e grid`, `@media`, `responsividade`
-- JavaScript: `DOM`,`React`
-- JsonServer: `Simulando um banco de dados`
+- JavaScript: `DOM`,`React`, `Animações`
+- API: Consumindo a API TheMovieDB
 
 ## 🔖 Instruções
 
 **Para rodar o projeto localmente:**
 
-- npm i <br>
-- npm run backend<br>
 - npm run dev<br>
+- Mas se preferir, o deploy já foi realizado em: https://clone-netflix-react-nine.vercel.app/
 
 ## :memo: Licença
 
